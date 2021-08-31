@@ -1,0 +1,22 @@
+{
+  "name": "shadowfornondevelopers",
+  "version": "1.0.0",
+  "description": "Add awesome shadows for the non-designers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayank300/shadowwizardlite.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Mayank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayank300/shadowwizardlite/issues"
+  },
+  "homepage": "https://github.com/Mayank300/shadowwizardlite#readme"
+}
